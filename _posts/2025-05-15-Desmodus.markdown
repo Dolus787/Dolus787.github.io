@@ -10,3 +10,5 @@ This project was done as a final game project at LTU, we were a compound team fr
 The game is a online asymmetric shooter with one side playing of 4 vampires and the other playing nun vampire hunters. Each side had different abilities and capabilities, the vampires had enhanced movement, stealth and x-ray vision, and the nuns had ranged weaponry. The nuns advanced through the map completing objectives along the way. The vampires on the other hand executed ambushes and tried to stop the nuns.
 
 Here is [a short trailer](https://www.youtube.com/watch?v=l3a2JYX68eg) and [a gameplay trailer](https://drive.google.com/file/d/1KfjaE2Op4yPHAXBfeIdejfRzSDbZ7pns/view?usp=sharing).
+
+![DesmodusCredits]({{ '/Assets/Desmodus/Credits.png' | relative_url }})

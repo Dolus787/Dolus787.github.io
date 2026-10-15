@@ -20,3 +20,5 @@ Here is a demo of a block hanged from four simulated ropes being shot with the g
 Here is a [walkthrough of the prototype tutorial level](https://drive.google.com/file/d/10X8z_sMC1FvBUGN8KjGCsR79-pdYT2wy/view?usp=sharing).
 
 Check out the [github repo](https://github.com/tagetjerngren/TinyNorth).
+
+![TinyCredits]({{ '/Assets/TinyNorth/Credits.png' | relative_url }})
