@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 # Aron Olovsson
-
+Please reach out for references.
 ## Skills
 
 - Programming in C++, C#, Angelscript, Python and Java.
